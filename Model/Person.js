@@ -1,5 +1,5 @@
 //INSTRUCTION : Create a person
-const mongoose = require('mongoose') // import mg
+const mongoose = require('mongoose') 
 
 const personSchema = new mongoose.Schema({
 
