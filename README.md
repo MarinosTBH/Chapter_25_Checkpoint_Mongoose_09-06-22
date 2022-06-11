@@ -1,3 +1,4 @@
+This app is able to run a server deploy documents from mongodb cluster and CRUD them then send them to the server. 
 EXPRESS / MONGODB / MONGOOSE/ DOTENV /NODEMON
 
 package.json : 
